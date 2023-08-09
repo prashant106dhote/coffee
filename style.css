@@ -48,7 +48,7 @@ header.shadow{
     box-shadow: var(--box-shadow);
 }
 .logo img{
-    width: 50px;
+    width: 48px;
     color: #fff;
     background-color: #edeae3;
     border-radius: 50%;
@@ -431,7 +431,7 @@ header{
     padding: 14px 4%;
 }
 .logo img{
-    width: 30px;
+    width: 24px;
 }
 .icon i{
     font-size: 1rem;
